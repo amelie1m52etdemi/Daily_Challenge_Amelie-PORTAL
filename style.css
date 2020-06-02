@@ -1,26 +1,46 @@
 /* style.css */
 body{
-  background: rgb(245,245,245);
-  color: green;
-  font-size: 25px;
-  font-family: Helvetica;
+  background: beige;
+  color: grey;
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
 }
 h1{
   font-family: Courier;
-  color: red;
+  color: black;
   font-weight: lighter;
-  font-size: 10px;
+  font-size: 23px;
+  text-align : center;
 }
 h2 {
-  font-family: Courier;
-  color: pink;
+  font-family: 'Oswald', sans-serif;
+  color: brown;
   font-weight: lighter;
-  font-size: 8px;
+  font-size: 15px;
 }
 a {
-  color: yellow;
+  color: black;
+  font-size: 15px;
+  
 }
+
 a:hover {
   text-decoration: none;
   color: purple;
+  
 }
+
+#baseline h1{
+color: black;
+font-family: Courier;
+}
+
+header {
+	text-align: center
+}
+
+li{
+	text-align: left;
+}
+
+
